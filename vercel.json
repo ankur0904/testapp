@@ -1,6 +1,7 @@
 {
     "builds":[
         {
+            "scripts": "npm i",
             "src":"./app.js",
             "use":"@vercel/node"
         }
