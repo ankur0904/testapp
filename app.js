@@ -174,9 +174,9 @@ app.post("/addNewPatient", function (req, res) {
     })
 })
 
-app.post("/add", function (req, res) {
-    res.render("admin/add");
-})
+// app.post("/add", function (req, res) {
+//     res.render("admin/add");
+// })
 
 
 app.post("/search", function (req, res) {
