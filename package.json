@@ -13,6 +13,7 @@
     "node": "16.17.1"
   },
   "dependencies": {
+    "bats": "^1.9.0",
     "bcrypt": "^5.0.1",
     "body-parser": "^1.20.0",
     "ejs": "^3.1.8",
